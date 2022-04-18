@@ -9,9 +9,9 @@
     <br />
    </strong></a>
     <br />
-    <a href="https://github.com/Avipatilpro/FileStreamBot/issues">Report a Bug</a>
+    <a href="https://github.com/Iregullar/pdfdeneme/issues">Report a Bug</a>
     |
-    <a href="https://github.com/Avipatilpro/FileStreamBot/issues">Request Feature</a>
+    <a href="https://github.com/Iregullar/pdfdeneme/issues">Request Feature</a>
   </p>
 </p>
 
@@ -66,7 +66,7 @@ then goto the <a href="#mandatory-vars">variables tab</a> for more info on setti
 
 
 ```py
-git clone https://github.com/avipatilpro/FileStreamBot
+git clone https://github.com/Iregullar/pdfdeneme
 cd FileStreamBot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
